@@ -1,4 +1,6 @@
-🏥 Diabetes Prediction App - README
+#🏥 Diabetes Prediction App
+
+
 📖 Overview
 A comprehensive Streamlit web application for predicting diabetes risk based on patient medical data. This machine learning application uses the Pima Indians Diabetes Dataset to classify patients as high or low risk for diabetes.
 
